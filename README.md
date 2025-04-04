@@ -1,4 +1,23 @@
 # Complete Guide to Obtaining a D-U-N-S Number
+
+# Required details to register D-U-N-S number
+
+| **Field**             | **Description**                                                                 |
+|-----------------------|---------------------------------------------------------------------------------|
+| Apple ID              | Apple account used for developer enrollment or communication                   |
+| Region                | Country or geographic location of the business                                  |
+| Legal Entity Name     | The registered name of your organization or business                            |
+| Street Address        | The physical street address of your business                                    |
+| Town/City             | The city where your business is located                                         |
+| State                 | The state/province of your business location                                    |
+| Postal Code           | ZIP or postal code of your business address                                     |
+| Phone Number          | Business contact number (can be landline or mobile)                             |
+| Given Name            | Your first name (the person requesting the DUNS number)                         |
+| Family Name           | Your last name                                                                  |
+| Work Phone Number     | Direct phone line where Apple/D&B can contact you                               |
+| Work Email            | Business email (you'll receive your DUNS confirmation here)                     |
+
+
 ## Steps to Get a D-U-N-S Number for Apple & Google Play Console Accounts
 
 ### 1. Check If Your Business Already Has a D-U-N-S Number
